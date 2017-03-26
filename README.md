@@ -1,2 +1,3 @@
 # TestingStuff
-First Git Repo ever!
+Alrighty, editing the ReadMe of the branch
+Onward to the Goodness! =D
